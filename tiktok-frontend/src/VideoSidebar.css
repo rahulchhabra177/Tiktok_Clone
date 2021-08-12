@@ -1,0 +1,14 @@
+.videoSidebar{
+	position:absolute;
+		top:50%;
+		left:380px;
+		z-index: 100;
+			/*filter:invert(1);*/
+			color:white;
+
+}
+
+.videoSidebar_button{
+	margin-bottom: 30px;
+}
+
